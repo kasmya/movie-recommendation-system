@@ -29,8 +29,7 @@ This project uses metadata to recommend similar movies without relying on user r
 - [TMDB 5000 Movie Dataset (Kaggle)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## Future Improvements
-
-- Build a user interface using Streamlit or Flask  
+ 
 - Explore hybrid recommendation methods  
 - Add evaluation metrics like precision@k or recall@k  
 
